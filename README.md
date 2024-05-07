@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/shayan zare-red?style=flat-square">
 </a> 
 <a href="https://t.me/shayan_zare_dev">
-    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
+    <img src="https://img.shields.io/badge/chat-blue?style=flat-square&logo=telegram">
 </a> 
 <a href="https://www.linkedin.com/in/shayan-zare">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
