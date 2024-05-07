@@ -1,5 +1,5 @@
 # shayan-zare
-## Flutter Developer <br>
+## Flutter Developer 🔮<br>
 <p align="center">
 <a href="https://github.com/shayanzare-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Shayan+Zare;junior; Flutter Developer" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 
 <a href="https://github.com/shayanzare-dev">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,alpinejs,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
+         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,git flow,&perline=8" />
     </p>
    
 </a>
