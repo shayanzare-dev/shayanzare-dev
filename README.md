@@ -28,7 +28,7 @@
 
 <a href="https://github.com/shayanzare-dev">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,dart,flutter,algorithm,ps,figma,github,vscode,linkedin,postman,git,&perline=8" />
+         <img src="https://skillicons.dev/icons?i=xd,dart,flutter,algoritm,ps,figma,github,vscode,linkedin,postman,git,&perline=8" />
     </p>
    
 </a>
