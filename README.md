@@ -1,8 +1,6 @@
 # Shayan Zare
 
-![shayanzare-dev](profile-3d-contrib/profile-night-green.svg)
-
-
+![shayanzare-dev](profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ## 🌐 Socials:
