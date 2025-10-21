@@ -21,7 +21,7 @@ I build mobile experiences that are fast, reliable and delightful. With a strong
 - ✉️ Email: `shayanzare2222@gmail.com`  
 - LinkedIn: https://linkedin.com/in/shayan-zare 
 - Medium: https://medium.com/@shayanzare2222  
-- StackOverflow: https://stackoverflow.com/users//19829547/shayan-zare
+- StackOverflow: [https://stackoverflow.com/users//19829547/shayan-zare](https://stackoverflow.com/users/19829547/shayan-zare)
 - Twitter: https://x.com/Shayanzare2024 
 ---
 
