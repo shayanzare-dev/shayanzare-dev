@@ -38,7 +38,7 @@ I build mobile experiences that are fast, reliable and delightful. With a strong
 <p>
  <img alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34"/>
 <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34"/>
-<img alt="Adobe XD" src="https://commons.wikimedia.org/wiki/File:Adobe_XD_CC_icon.svg" width="34" height="34"/>
+<img alt="Adobe XD" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" width="34" height="34"/>
 <img alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="34" height="34"/>
 <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="34" height="34"/>
 <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="34" height="34"/>
