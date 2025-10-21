@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Shayan Zare </h1>
 <p align="center">
   <strong>Mobile Software Engineer • ReacNative & Flutter • Vietnam</strong><br />
-  <a href="https://shayanzare-dev.github.io/portfolio">View résumé / CV</a> • <a href="mailto:shayanzare2222@gmail.com">shayanzare2222@gmail.com</a>
+  <a href="https://shayanzare-dev.github.io/portfolio">View Resume / CV</a> • <a href="mailto:shayanzare2222@gmail.com">shayanzare2222@gmail.com</a>
 </p>
 
 ---
