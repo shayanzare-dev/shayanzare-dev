@@ -11,7 +11,7 @@
 ### About me
 I build mobile experiences that are fast, reliable and delightful. With a strong background in ReacNative (JavaScript) and cross-platform Flutter (Dart), I focus on clean architecture, testable code, and end-to-end product thinking.
 
-- 🔭 Current focus: **Reac Native (Android & Ios)**, **Dart & Flutter**  
+- 🔭 Current focus: **React Native (Android & Ios)**, **Dart & Flutter**  
 - 💼 Experience: shipping production mobile apps, integrating CI/CD, working with Firebase and modern backend APIs  
 - 🌱 Always learning: performance tuning, modern cross-platform app architecture and state management in Flutter
 
