@@ -38,7 +38,7 @@ I build mobile experiences that are fast, reliable and delightful. With a strong
 <p>
  <img alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34"/>
 <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34"/>
-<img alt="Adobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="34" height="34"/>
+<img alt="Adobe XD" src="https://commons.wikimedia.org/wiki/File:Adobe_XD_CC_icon.svg" width="34" height="34"/>
 <img alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="34" height="34"/>
 <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="34" height="34"/>
 <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="34" height="34"/>
@@ -50,19 +50,6 @@ I build mobile experiences that are fast, reliable and delightful. With a strong
 
 ---
 
-### Selected Projects
-> Short project descriptions with links give recruiters a fast idea of impact. Replace these with your top repositories or production apps.
-
-- **Project A — [repo/link]**  
-  Native Android app using Kotlin, MVVM, Coroutines. Implemented offline caching, modularized codebase, and improved startup time by 40%.
-
-- **Project B — [repo/link]**  
-  Cross-platform Flutter app (Dart) with custom UI, integrated with Firebase Auth + Firestore and CI pipelines for automatic releases.
-
-- **Project C — [repo/link]**  
-  Utility library / SDK for Android used in multiple apps to standardize network and caching layers. Documented and unit-tested.
-
----
 
 ### Work & Experience
 - Mobile Software Engineer — *Company / Freelance*  
@@ -82,7 +69,7 @@ I build mobile experiences that are fast, reliable and delightful. With a strong
 ---
 
 ### Optional: What I enjoy
-When I'm not coding I like reading about mobile performance, experimenting with animations, and sharing notes on Medium.
+When I'm not coding I like reading about mobile performance, experimenting with animations, and sharing notes on Linkedin.
 
 ---
 
