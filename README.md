@@ -68,6 +68,21 @@ I build mobile experiences that are fast, reliable and delightful. With a strong
 
 ---
 
+<picture>
+  
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/shayanzare-dev/shayanzare-dev/02e4b97cc490a1909a38a1621f2cdbfd7f6140b7/github-contribution-grid-snake-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/shayanzare-dev/shayanzare-dev/02e4b97cc490a1909a38a1621f2cdbfd7f6140b7/github-contribution-grid-snake.svg">
+  <!-- fallback -->
+  <img alt="amirroox's GitHub contribution graph (snake animation)"
+       src="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake.svg"
+       style="max-width:100%; height:auto;">
+</picture>
+
+
+---
 ### Optional: What I enjoy
 When I'm not coding I like reading about mobile performance, experimenting with animations, and sharing notes on Linkedin.
 
